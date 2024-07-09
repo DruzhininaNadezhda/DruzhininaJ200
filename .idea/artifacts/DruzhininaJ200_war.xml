@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DruzhininaJ200:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>DruzhininaJ200</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="DruzhininaJ200-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="DruzhininaJ200:war exploded" />
+    </root>
+  </artifact>
+</component>
